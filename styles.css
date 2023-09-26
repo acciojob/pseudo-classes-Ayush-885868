@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+/*:root{
+	backgroubnd-color:rgb(135, 206, 235);
+}*/
+#contain>p:first-child{
+	background-color:black;
+	color:white;
+	font-size:22px;
+}
+#contain>ul,li:last-child{
+	font-size:22px;
+}
+#contain>:nth-child(2){
+	text-style:standard;
+}
+#contain>:nth-child(3){
+	color:red;
+	font-size:22px;
+}
+#container>ul,li:nth-child(odd){
+	background-color:white;
+}
+#container>ul,li:nth-child(even){
+	background-color:gray;
+}
+li{
+	width:50%;
+	padding:10px;
+}
+#container>ul,li:nth-child(3){
+	background-color:pink;
+}
+div{
+	background-color:rgb(135,206,235);
+}
+div{
+	height:800px;
+}
+	
