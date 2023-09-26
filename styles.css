@@ -30,8 +30,8 @@ li{
 #container>ul,li:nth-child(3){
 	background-color:pink;
 }
-div{
-	background-color:rgb(135,206,235);
+:root{
+	background:rgb(135, 206, 235);
 }
 div{
 	height:800px;
